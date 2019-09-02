@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>    
+    <id>FilterLibrary</id>
+    <version>0.0.4</version>
+    <title>Custom tool for dynamic filter collections</title>
+    <authors>Igor Ganov</authors>
+    <owners>Igor Ganov</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains sortable collection, witch sapported notification of element's property changed, sorting and filtering by dynamic expression. Also the package include classes for creating custom filters and window for setting filter by user. Filter support a deep setting.</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags></tags>
+    <summary></summary>
+  </metadata>
+  <files>
+  </files>
+</package>
